@@ -1,0 +1,12 @@
+{
+	"sky_id"   		: "bcground.jpg",
+	"land_id" 		: "green.png",
+	"grass_0_id"	: "grass.png",
+	"grass_1_id" 	: "grass2.png",
+	"player_id" 	: "circle.png",
+	"enemy_id" 		: "enemy.png",
+	"b_close_id"	    : "close.png",
+	"b_close_small_id"	: "smallClose.png",
+	"b_restart_id"	    : "restart.png",
+	"b_restart_small_id"	: "smallRestart.png"
+}

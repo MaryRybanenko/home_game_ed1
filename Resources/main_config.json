@@ -1,0 +1,13 @@
+{
+	"width" : "960",
+	"height" : "540",
+
+	"player_pos" : "0.1|0.3",
+
+	"sky" : "bcground.jpg",
+	"land" : "green.png",
+	"grass_0" : "grass.png",
+	"grass_1" : "grass2.png",
+	"player" : "circle.png",
+	"enemy" :  "enemy.png"
+}
